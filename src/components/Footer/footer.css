@@ -1,0 +1,44 @@
+.main-footer {
+    color: white;
+    background-color: #dc3545;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.list-main-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.list-main-second ui li {
+    padding: 10px 0px 10px 0px;
+}
+
+.list-main-first ui li {
+    padding: 10px 0px 10px 0px;
+}
+
+.submit-btn {
+    border-radius: 4px;
+    margin-top: 3%;
+    border: none;
+
+}
+
+.footer-social--icons {
+    display: flex;
+    gap: 1rem;
+}
+
+.footer-social--icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.social-heading{
+    font-size: 15px;
+}

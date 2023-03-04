@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import { BottomNav } from "./components/Footer/Footer.jsx";
+import { Information } from "./components/Information.jsx";
 import './App.css'
 import { Home } from './components/home/home'
 import { Navbar } from './components/navbar/navbar'

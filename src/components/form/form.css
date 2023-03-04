@@ -1,0 +1,18 @@
+.form-usr-img{
+    width: 50%;
+}
+
+.custom-txtfield{
+    background-color: #F8F8FF;
+}
+
+.custom-formbtn{
+    background-color: #BA68C8;
+    color: #fff;
+}
+
+.formtxt{
+    color: #37474F;
+    font-size: 16px;
+    font-weight: 600;
+}

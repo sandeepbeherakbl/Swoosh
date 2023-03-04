@@ -22,7 +22,6 @@
 
 .login_main_div {
     height: 100vh;
-    background-image: linear-gradient(#ffffff, #fc67fa);
     display: flex;
     align-items: center;
 
